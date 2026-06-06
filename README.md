@@ -1,4 +1,4 @@
-Este es un repositorio para guardar algunos mods de Minecraft, siendo Impossible Difficulty Resource Pack solo un archivo complementario para un datapack parea la version 1.16 de Minecraft Java.
+Este es un repositorio para guardar algunos mods de Minecraft, siendo Impossible Difficulty Resource Pack solo un archivo complementario para un datapack para la version 1.16 de Minecraft Java.
 
 Los mods requeridos para jugar Cursofabric son los dos que aparecen adjuntos en el repositorio siendo Trinkets 3.9.0 y Fabric API, SIN ESTOS DESCARGADOS EL JUEGO NO PODRA ABRIR.
 
