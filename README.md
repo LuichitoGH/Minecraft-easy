@@ -6,16 +6,16 @@ Se requiere de la version 1.20.6 de Minecraft Java, NINGUNA OTRA VERSION SOPORTA
 
 
 El mod continua en desarrollo, en el momento estos son los contenidos que añade:
-- 77 Crafteos nuevos
+- +85 Crafteos nuevos
 - +10 Armaduras nuevas
 - +3 Sets de herramientas
 - +2 Jefes y un rework al jefe final
 - +25 Objetos nuevos independientes
 - Mejoras a la progresion del juego
 - Una dificultad extra para que el mod este balanceado
-- En total, 85 Items nuevos añadidos
+- En total, +125 Items nuevos añadidos
 - 5 Logros añadidos
-- 2 Bloques
+- 3 Bloques
 
 - IMPORTANTE: El mod ha sido desarrollado por un princiante, por ende aun apareceran bugs, se priorizo el arreglo de bugs para el modo Supervivencia pues es el modo pensado para jugar con el mod
 por lo que si se quiere una buena experiencia sin bugs lo mejor es jugar en este modo.
